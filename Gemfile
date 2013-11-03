@@ -5,9 +5,8 @@ gem 'rails', '3.2.12'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-gem 'thin'
-gem 'rethinkdb', '~> 1.2.6'
-gem 'nobrainer', '0.5.2'
+gem 'rethinkdb', '>=1.0.8'
+gem 'nobrainer', '0.6.4'
 
 # Gems used only for assets and not required
 # in production environments by default.
